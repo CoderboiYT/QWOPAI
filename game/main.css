@@ -1,0 +1,15 @@
+#timer {
+  position: absolute;
+  top: 420;
+  left: 450;
+  font-size: xx-large;
+  font-family: sans-serif;
+}
+
+#actions {
+  position: absolute;
+  top: 420;
+  left: 10;
+  font-size: xx-large;
+  font-family: sans-serif;
+}
